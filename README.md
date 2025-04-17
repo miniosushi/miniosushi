@@ -1,8 +1,8 @@
-- 👋 Hi! I'm Sofia Elenga
-- 🎓 I’m currently finishing my BS in Computer Science
-- 🌱 This summer I'm moving to NYC to work @Amazon on the Prime Video Ads team! 
-- 👯 I’m looking to collaborate on interesting projects + build technical skills
-- 🍣 Fun fact: miniosushi has been my username for everything since moshi monsters in 2nd grade (and yes I love sushi)
+- Hi! I'm Sofia Elenga
+- I graduated summa cum laude from SDSU in 2025 with a BS in Computer Science
+- Summer 2025 I'm moving to NYC to work @Amazon on the Prime Video Ads team! 
+- I’m looking to collaborate on interesting projects + build technical skills
+- Fun fact: miniosushi has been my username for everything since moshi monsters in 2nd grade (and yes I love sushi)
 
 <!--
 **miniosushi/miniosushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
